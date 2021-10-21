@@ -1,0 +1,23 @@
+html{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+body{
+    background-color: #fcfcfc;
+}
+h1{
+    color: #764e36;
+    border: solid #764e36;
+    border-left: none;
+    border-right: none;
+}
+h3{
+    background-color: #764e36;
+    color: #fcfcfc;
+    padding-left: 3px; 
+}
+img{
+    border: solid #764e36;
+    padding: 10px;
+
+}
